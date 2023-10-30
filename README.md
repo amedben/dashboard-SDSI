@@ -1,6 +1,6 @@
 # Streamlit Web App with ETL Process and Dashboard
 
-![App Screenshot](app_screenshot.png)
+![App Screenshot](app.png)
 
 ## Introduction
 
